@@ -5,7 +5,7 @@ This is counter App.This is basically part of my mini project.With the help of t
 Netlify
 
 #Visit & Short URL:
-https://md-counter-app.netlify.app/
+https://md-counter-app.netlify.app/  
 
 #Demo : 
 
